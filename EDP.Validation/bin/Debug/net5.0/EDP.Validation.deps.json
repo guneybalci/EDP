@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EDP.Validation/1.0.0": {
+        "dependencies": {
+          "EDP.Core": "1.0.0"
+        },
+        "runtime": {
+          "EDP.Validation.dll": {}
+        }
+      },
+      "EDP.Core/1.0.0": {
+        "runtime": {
+          "EDP.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDP.Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EDP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

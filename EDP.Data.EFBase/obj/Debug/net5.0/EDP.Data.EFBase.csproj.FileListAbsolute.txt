@@ -1,0 +1,17 @@
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Data.EFBase.deps.json
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Data.EFBase.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\ref\EDP.Data.EFBase.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Data.EFBase.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Core.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Data.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Data.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\bin\Debug\net5.0\EDP.Core.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.csproj.CopyComplete
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\ref\EDP.Data.EFBase.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Data.EFBase\obj\Debug\net5.0\EDP.Data.EFBase.pdb

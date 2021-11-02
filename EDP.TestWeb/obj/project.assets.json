@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "EDP.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EDP.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EDP.Core.dll": {}
+        }
+      },
+      "EDP.ExceptionHandling/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/EDP.ExceptionHandling.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EDP.ExceptionHandling.dll": {}
+        }
+      },
+      "EDP.Validation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EDP.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EDP.Validation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EDP.Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EDP.Core/1.0.0": {
+      "type": "project",
+      "path": "../EDP.Core/EDP.Core.csproj",
+      "msbuildProject": "../EDP.Core/EDP.Core.csproj"
+    },
+    "EDP.ExceptionHandling/1.0.0": {
+      "type": "project",
+      "path": "../EDP.ExceptionHandling/EDP.ExceptionHandling.csproj",
+      "msbuildProject": "../EDP.ExceptionHandling/EDP.ExceptionHandling.csproj"
+    },
+    "EDP.Validation/1.0.0": {
+      "type": "project",
+      "path": "../EDP.Validation/EDP.Validation.csproj",
+      "msbuildProject": "../EDP.Validation/EDP.Validation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "EDP.Core >= 1.0.0",
+      "EDP.ExceptionHandling >= 1.0.0",
+      "EDP.Validation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\guney.balci\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.TestWeb\\EDP.TestWeb.csproj",
+      "projectName": "EDP.TestWeb",
+      "projectPath": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.TestWeb\\EDP.TestWeb.csproj",
+      "packagesPath": "C:\\Users\\guney.balci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.TestWeb\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\guney.balci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.Core\\EDP.Core.csproj": {
+              "projectPath": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.Core\\EDP.Core.csproj"
+            },
+            "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.ExceptionHandling\\EDP.ExceptionHandling.csproj": {
+              "projectPath": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.ExceptionHandling\\EDP.ExceptionHandling.csproj"
+            },
+            "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.Validation\\EDP.Validation.csproj": {
+              "projectPath": "C:\\Users\\guney.balci\\source\\repos\\EDP\\EDP.Validation\\EDP.Validation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

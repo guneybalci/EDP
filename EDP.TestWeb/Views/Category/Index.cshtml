@@ -1,0 +1,18 @@
+﻿@model EDP.TestWeb.Models.CategoryModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div>
+    <form asp-controller="Category" asp-action="Index" method="post">
+        <input type="text" asp-for="CategoryName" />
+        <br />
+        <input type="text" asp-for="Description" />
+        <br />
+        <button type="submit">Kaydet</button>
+        <div asp-validation-summary="All"></div>
+    </form>
+
+</div>

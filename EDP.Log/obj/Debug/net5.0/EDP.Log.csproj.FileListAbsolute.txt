@@ -1,0 +1,15 @@
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\EDP.Log.deps.json
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\EDP.Log.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\ref\EDP.Log.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\EDP.Log.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\ref\EDP.Log.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\EDP.Core.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\bin\Debug\net5.0\EDP.Core.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Log\obj\Debug\net5.0\EDP.Log.csproj.CopyComplete

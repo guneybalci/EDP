@@ -1,0 +1,15 @@
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\EDP.Validation.deps.json
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\EDP.Validation.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\ref\EDP.Validation.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\EDP.Validation.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\ref\EDP.Validation.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\EDP.Core.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\bin\Debug\net5.0\EDP.Core.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.Validation\obj\Debug\net5.0\EDP.Validation.csproj.CopyComplete

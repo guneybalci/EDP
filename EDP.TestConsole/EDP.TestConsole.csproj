@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EDP.Data.EFBase\EDP.Data.EFBase.csproj" />
+    <ProjectReference Include="..\EDP.Data\EDP.Data.csproj" />
+    <ProjectReference Include="..\EDP.ExceptionHandling\EDP.ExceptionHandling.csproj" />
+    <ProjectReference Include="..\EDP.Log\EDP.Log.csproj" />
+    <ProjectReference Include="..\EDP.Validation\EDP.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

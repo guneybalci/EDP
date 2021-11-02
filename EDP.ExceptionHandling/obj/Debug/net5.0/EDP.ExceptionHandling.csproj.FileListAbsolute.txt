@@ -1,0 +1,12 @@
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\bin\Debug\net5.0\EDP.ExceptionHandling.deps.json
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\bin\Debug\net5.0\EDP.ExceptionHandling.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\bin\Debug\net5.0\ref\EDP.ExceptionHandling.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\bin\Debug\net5.0\EDP.ExceptionHandling.pdb
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\ref\EDP.ExceptionHandling.dll
+C:\Users\guney.balci\source\repos\EDP\EDP.ExceptionHandling\obj\Debug\net5.0\EDP.ExceptionHandling.pdb
